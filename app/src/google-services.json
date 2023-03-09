@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609065292310",
+    "project_id": "project5-c41f4",
+    "storage_bucket": "project5-c41f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609065292310:android:fce75ed5c853f1f5d7db37",
+        "android_client_info": {
+          "package_name": "com.tanxe.project5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609065292310-dskf8a8q8fi121pvo88haukrum172ckp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGlKt78XVhATC5Z5ZN0az4b0G9dWLj-0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609065292310-dskf8a8q8fi121pvo88haukrum172ckp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
